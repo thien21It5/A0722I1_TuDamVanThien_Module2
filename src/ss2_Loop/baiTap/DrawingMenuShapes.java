@@ -2,7 +2,7 @@ package ss2_Loop.baiTap;
 
 import java.util.Scanner;
 
-public class Drawing_Menu_Shapes {
+public class DrawingMenuShapes {
     public static void main(String[] args) {
         int choice = -1;
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package ss1_IntroduceJava.baiTap;
 
 import java.util.Scanner;
 
-public class Currency_Conversion {
+public class CurrencyConversion {
     public static void main(String[] args) {
         System.out.println("ỨNG DỤNG CHUYỂN ĐỔI TIỀN TỆ");
         Scanner sc = new Scanner(System.in);

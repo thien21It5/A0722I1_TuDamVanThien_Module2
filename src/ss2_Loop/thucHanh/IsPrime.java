@@ -2,7 +2,7 @@ package ss2_Loop.thucHanh;
 
 import java.util.Scanner;
 
-public class Is_prime {
+public class IsPrime {
     public static void main(String[] args) {
         System.out.println("KIỂM TRA SỐ NGUYÊN");
         Scanner sc = new Scanner(System.in);

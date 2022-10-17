@@ -1,6 +1,6 @@
 package ss1_IntroduceJava.thucHanh;
 
-public class declareVarible {
+public class DeclareVarible {
     public static void main(String[] args) {
         //Khai báo biến
         int i = 10;

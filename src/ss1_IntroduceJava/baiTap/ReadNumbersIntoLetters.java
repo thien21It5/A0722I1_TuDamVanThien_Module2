@@ -2,7 +2,7 @@ package ss1_IntroduceJava.baiTap;
 
 import java.util.Scanner;
 
-public class Read_Numbers_Into_Letters {
+public class ReadNumbersIntoLetters {
     public static void main(String[] args) {
         System.out.println("ỨNG DỤNG ĐỌC SỐ THÀNH CHỮ");
         Scanner sc = new Scanner(System.in);

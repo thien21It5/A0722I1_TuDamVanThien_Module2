@@ -2,7 +2,7 @@ package ss1_IntroduceJava.thucHanh;
 
 import java.util.Scanner;
 
-public class solveFirstDegreeEquation {
+public class SolveFirstDegreeEquation {
     public static void main(String[] args) {
 //Giải phương trình bậc 1
         System.out.println("Linear Equation Resolver");

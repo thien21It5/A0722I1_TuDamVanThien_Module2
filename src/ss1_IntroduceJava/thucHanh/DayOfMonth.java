@@ -2,7 +2,7 @@ package ss1_IntroduceJava.thucHanh;
 
 import java.util.Scanner;
 
-public class day_Of_Month {
+public class DayOfMonth {
     public static void main(String[] args) {
         System.out.println("TÍNH SỐ NGÀY TRONG THÁNG");
         Scanner sc = new Scanner(System.in);

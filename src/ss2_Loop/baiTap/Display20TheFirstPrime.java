@@ -1,6 +1,6 @@
 package ss2_Loop.baiTap;
 
-public class Display_20_TheFirstPrime {
+public class Display20TheFirstPrime {
     public static void main(String[] args) {
         System.out.println("HIỂN THỊ 20 SỐ NGUYÊN TỐ ĐẦU TIÊN: ");
         int count = 0;

@@ -1,6 +1,6 @@
 package ss2_Loop.baiTap;
 
-public class Display_ThePrimeLessThan100 {
+public class DisplayThePrimeLessThan100 {
     public static void main(String[] args) {
         System.out.println("HIỂN THỊ CÁC SỐ NGUYÊN TỐ NHỎ HƠN 100 ");
         int count = 0;

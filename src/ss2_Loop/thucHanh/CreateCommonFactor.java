@@ -2,7 +2,7 @@ package ss2_Loop.thucHanh;
 
 import java.util.Scanner;
 
-public class Greate_Common_Factor {
+public class CreateCommonFactor {
     public static void main(String[] args) {
         System.out.println("TÌM ƯỚC CHUNG LỚN NHẤT");
         Scanner sc = new Scanner(System.in);
